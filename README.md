@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/jensdevlaming">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jensdevlaming&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/jensdevlaming">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensdevlaming&theme=dark&layout=compact" />
+</a>
 
 <!--
 **JensdeVlaming/JensdeVlaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
