@@ -1,5 +1,10 @@
 <a href="https://github.com/JensdeVlaming"> <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=jensdevlaming&count_private=true&show_icons=true&theme=dark"></a>
 <a href="https://github.com/jensdevlaming"> <img width="100%" height="167" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensdevlaming&theme=dark&layout=compact"></a>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<hr>
 
 <h2 align="center">Repositories</h2>
 
@@ -8,7 +13,6 @@
   </a>
 </p>
 <br><br>
-
 
 
 <!--
