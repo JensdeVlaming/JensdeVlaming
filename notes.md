@@ -7,7 +7,6 @@ To add new automation:
 ! Vim wil open: press i to edit file. Press esc to go out of edit mode. Press :x to save and exit and press :q! to exit without saving.
 ```bash
 * * * * * /usr/local/bin/python3 /setup.py
-```
 | | | | | 
 | | | | |
 | | | | |
@@ -16,3 +15,4 @@ To add new automation:
 | | day of the month (1 - 31)
 | hour (0 - 23)
 minute (0 - 59)
+```
