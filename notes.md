@@ -1,4 +1,8 @@
-# Crontab
+# Notes
+In this file I keep all my notes:
+<a href="https://github.com/JensdeVlaming/JensdeVlaming/blob/main/notes.md#crontab">Crontab</a>
+
+## Crontab
 
 To add new automation:
 ```bash
