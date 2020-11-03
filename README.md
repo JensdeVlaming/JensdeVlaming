@@ -1,9 +1,7 @@
 <a href="https://github.com/JensdeVlaming"> <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=jensdevlaming&count_private=true&show_icons=true&theme=dark"></a>
 <a href="https://github.com/jensdevlaming"> <img width="100%" height="167" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensdevlaming&theme=dark&layout=compact" />
 </a>
-
-<hr style="margin:50;">
-
+<hr>
 <h2 align="center">Repositories</h2>
 <p width="100%" align="center">
 <a align="left" href="https://github.com/JensdeVlaming/Project-WhatsApp" title="Project-WhatsApp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JensdeVlaming&repo=Project-WhatsApp&theme=dark"></a>
