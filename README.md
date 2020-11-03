@@ -2,7 +2,7 @@
 <a href="https://github.com/jensdevlaming"> <img width="100%" height="167" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jensdevlaming&theme=dark&layout=compact" />
 </a>
 
-<hr style="margin="50">
+<hr style="margin:50;">
 
 <h2 align="center">Repositories</h2>
 <p width="100%" align="center">
