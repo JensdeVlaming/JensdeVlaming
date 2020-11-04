@@ -20,3 +20,24 @@ To add new automation:
 | hour (0 - 23)
 minute (0 - 59)
 ```
+
+## Automating with module: schedule and time
+```bash
+import schedule
+import time
+
+def automation():
+    print("Automated message")
+
+schedule.every(1).minutes.do(automation)
+#schedule.every().hour.do(automation)
+#schedule.every().day.at("10:30").do(automation)
+#schedule.every(5).to(10).minutes.do(automation)
+#schedule.every().monday.do(automation)
+#schedule.every().wednesday.at("13:15").do(automation)
+#schedule.every().minute.at(":17").do(automation)
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+```
