@@ -17,3 +17,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jensdevlaming&theme=dark&" alt="jensdevlaming" />
 </p>
+
+<span align="center">
+
+![](https://visitor-badge.laobi.icu/badge?page_id=JensdeVlaming.JensdeVlaming)
+</span>
